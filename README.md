@@ -8,7 +8,7 @@ Full Stack Developer- Software Engineer
 I am Mechanical Engineer and I have a Master's Degree in Energy System Engineering. But I decided to change my career and working on software development.Now I am using my engineering and problem solving skills as a Full Stack Developer.
 
 * 🌍  I'm based in Ankara /Turkey
-* 🖥️  See my portfolio at [Github Portfolio](http://https://github.com/cagrimate/MailSender/pulse)
+* 🖥️  See my portfolio at [Github](http://https://github.com/cagrimate/MailSender/pulse)
 * ✉️  You can contact me at [cagritumer06@gmail.com](mailto:cagritumer06@gmail.com)
 * 🧠  I'm learning C# .net React
 
