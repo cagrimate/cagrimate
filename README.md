@@ -9,7 +9,6 @@ I am Mechanical Engineer and I have a Master's Degree in Energy System Engineeri
 
 * 🌍  I'm based in Ankara /Turkey
 * 🖥️  See my portfolio at [Github](http://https://github.com/cagrimate/MailSender/pulse)
-* ✉️  You can contact me at [cagritumer06@gmail.com](mailto:cagritumer06@gmail.com)
 * 🧠  I'm learning C# .net React
 
 <a href="https://www.github.com/cagrimate" target="_blank" rel="noreferrer"><img
