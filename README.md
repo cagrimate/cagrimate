@@ -8,8 +8,7 @@ Full Stack Developer- Software Engineer
 I am Mechanical Engineer and I have a Master's Degree in Energy System Engineering. But I decided to change my career and working on software development.Now I am using my engineering and problem solving skills as a Full Stack Developer.
 
 * 🌍  I'm based in Ankara /Turkey
-* 🖥️  See my portfolio at [Github](http://https://github.com/cagrimate/MailSender/pulse)
-* 🧠  I'm learning C# .net React
+* 🧠  I'm C# .net Developer
 
 <a href="https://www.github.com/cagrimate" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/cagrimate?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
